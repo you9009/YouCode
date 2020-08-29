@@ -3,8 +3,7 @@ theme: jekyll-theme-architect
 
 # Site 站点配置
 title: Youux's Bolg #网站标题
-subtitle: 👋 Hey! Guys! Welcome to Star, Fork and Issue #网站副标题
-description: I am a front-end developer. Welcome to Star, Fork and Issue #网栈描述
+description: 👋 Hey! Guys! Welcome to Star, Fork and Issue #网站副标题
 author: Youux #你的名字
 language: zh-CN #网站使用的语言
 timezone: Asia/Shanghai #网站时区
