@@ -30,10 +30,10 @@ post_asset_folder: false #是否启动资源文件夹
 relative_link: false #把链接改为与根目录的相对位址
 future: true
 highlight: #代码块的设置
-enable: true
-line_number: true
-auto_detect: true
-tab_replace:
+  enable: true
+  line_number: true
+  auto_detect: true
+  tab_replace: '  '
 # Category & Tag 分类 & 标签
 default_category: uncategorized #默认分类
 category_map: #分类别名
