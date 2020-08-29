@@ -1,17 +1,1 @@
-# 主题
 theme: jekyll-theme-architect
-
-# Site 站点配置
-title: Youux's Bolg #网站标题
-description: 👋 Hey! Welcome to Star, Fork and Issue #网站副标题
-author: Youux #你的名字
-language: zh-CN #网站使用的语言
-timezone: Asia/Shanghai #网站时区
-root: /youux/ #网站根目录
-permalink: :year/:month/:day/:title/ #永久链接格式
-
-highlight: #代码块的设置
-  enable: true #启动高亮
-  line_number: true #显示行号
-  auto_detect: false #自动检查
-  tab_replace: '  ' #缩进大小
