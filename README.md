@@ -1,9 +1,10 @@
-<img src="https://github-1253149949.cos.ap-shanghai.myqcloud.com/WechatIMG30.jpeg" alt="WeChat: youux" align="right" height="240">
-
 ## 👋 Hey! Guys
 
 ### I'm Jin Jin You
 
-I am a front-end developer. Welcome to Star, Fork and Issue
+一名前端程序员，5年级菜鸟，欢迎大家来Star，Fork 和 Issue
 
-- Weibo: https://weibo.com/youcode
+- 微博: https://weibo.com/youcode
+
+### 求职中……
+https://youux.github.io/youux/
