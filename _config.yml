@@ -3,5 +3,12 @@ theme: jekyll-theme-cayman
 
 title: About Youux
 description: Vue、React、TypeScript、小程序 and more……
-url: https://github.com/youux
-author: Youux
+
+github:
+  is_project_page: true
+  repository_url: https://youux.github.io/youux
+  repository_name: About Youux
+  owner_url: https://github.com/youux
+  owner_name: Youux
+  another_url: https://github.com/youux
+  repository_url: https://github.com/youux
