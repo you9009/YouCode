@@ -4,9 +4,7 @@ author: youcode@qq.com
 title: About Youux
 description: Vue，React，TypeScript，小程序 and more……
 
-is_project_page: true
-repository_url: https://youux.github.io/youux
 repository_name: About Youux
-owner_url: https://github.com/youux
+repository_url: https://github.com/youux
 owner_name: Youux
-another_url: https://github.com/youux
+owner_url: https://github.com/youux
