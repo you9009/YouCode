@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 
-
+author: youcode@qq.com
 title: About Youux
-description: Vue、React、TypeScript、小程序 and more……
+description: Vue，React，TypeScript，小程序 and more……
 
 is_project_page: true
 repository_url: https://youux.github.io/youux
