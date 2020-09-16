@@ -6,5 +6,5 @@
 
 - 微博: https://weibo.com/youcode
 
-### 求职中……
-https://youux.github.io/youux/
+### 个人博客
+https://www.youux.net
