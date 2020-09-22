@@ -1,0 +1,20 @@
+{
+  "name": "youux",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youux/youux.git"
+  },
+  "keywords": [],
+  "author": "You <you9009@foxmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youux/youux/issues"
+  },
+  "homepage": "https://github.com/youux/youux#readme"
+}
